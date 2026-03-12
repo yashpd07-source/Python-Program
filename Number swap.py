@@ -1,0 +1,8 @@
+a = print(6)
+b = print(7)
+c = print(9)
+d = print(0)
+d = print(6)
+a = print(7)
+b = print(9)
+c = print(0)
