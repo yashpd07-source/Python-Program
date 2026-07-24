@@ -4,7 +4,7 @@ SCREEN_WIDTH, SCREEN_HEIGHT = 800, 800
 display_surface = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption('Gojo game')
 background_image = pygame.transform.scale(
-    pygame.image.load('gojo.jpg').convert(),
+    pygame.image.load('hshshs.webp').convert(),
     (SCREEN_WIDTH, SCREEN_HEIGHT))
 penguin_image = pygame.transform.scale(
     pygame.image.load('gojo.jpg').convert_alpha(), (200, 200))
